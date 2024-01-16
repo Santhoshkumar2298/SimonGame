@@ -1,0 +1,62 @@
+body{
+    margin:0;
+    background-color: #27374D;
+    font-family: 'Play', sans-serif;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    margin: 20px 0;
+    padding: 15px;
+    font-size: 3rem;
+    color: #FAC408;
+}
+
+.row{
+   width: fit-content;
+   margin: auto;
+}
+
+.button{
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 8px;
+    box-shadow:2px 2px 5px 3px rgb(99, 99, 99) ;
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+}
+
+.game-over {
+    background-color: red;
+    opacity: 0.8;
+}
+
+.pressed {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+}
+  
+#red{
+    background-color: rgb(255, 74, 74);
+}
+
+#blue{
+    background-color: rgb(0, 0, 197);
+}
+
+#purple{
+    background-color: rgb(201, 9, 201);
+}
+
+#green{
+    background-color: rgb(0, 141, 94);
+}
+
+.footer p{
+    font-size: 0.8rem;
+    color:#2D4B74;
+    margin: 20px;
+    padding: 10px;
+}
