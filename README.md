@@ -10,6 +10,7 @@ Welcome to the Simon Game – a classic memory and pattern recognition game buil
 - [How to Play](#how-to-play)
 - [Contributing](#contributing)
 - [License](#license)
+- [Support Me](#support-me)
 
 ## Introduction
 
@@ -48,3 +49,11 @@ If you'd like to contribute to the project, please follow the guidelines in CONT
 ## License
 
 This project is licensed under the MIT License.
+
+## Support Me
+
+If you find my work helpful or inspiring and would like to support me, you can buy me a coffee!
+
+[<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=santhoshkumar2298&button_colour=c800ff&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00" />](https://www.buymeacoffee.com/santhoshkumar2298)
+
+Your support is greatly appreciated!
